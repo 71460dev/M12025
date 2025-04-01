@@ -51,7 +51,7 @@ print('Sua media é', Media)
 
 '''
 
-'''
+
 
 a = float(input('Qual seu peso:'))
 b = float(input('Digite sua altura:'))
@@ -59,9 +59,9 @@ b = float(input('Digite sua altura:'))
 imc = float(a / (b**2))
 
 print(imc)
-'''
 
-# Aula Renan 31/Mar/2025
+
+'''# Aula Renan 31/Mar/2025
 
 print(10 + 15)
 
@@ -69,7 +69,7 @@ n1 = 10
 n2 = 15
 
 soma = n1 + n2
-
+'''
 
 
 
