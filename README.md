@@ -38,7 +38,7 @@ media = (PEDRO + DIANA + MARIA + LUCAS) / 4
 
 print(media)
 print(type(media))'''
-
+'''
 a = float(input('Digite sua primeira nota:'))
 b = float(input('Digite sua segunda nota:'))
 
@@ -48,3 +48,42 @@ Media = float(( a + b ) / 2)
 #print(Media)
 
 print('Sua media é', Media)
+
+'''
+
+'''
+
+a = float(input('Qual seu peso:'))
+b = float(input('Digite sua altura:'))
+
+imc = float(a / (b**2))
+
+print(imc)
+'''
+
+# Aula Renan 31/Mar/2025
+'''
+print(10 + 15)
+
+n1 = 10
+n2 = 15
+
+soma = n1 + n2
+'''
+#Exercício Calculo de area do cículo 
+#formula: Area do círculo ( π ** raio² )
+
+
+
+a =  float(input('Digita o valor da area circular: '))
+b = 3.14
+
+raio = float(b * (a**2))
+
+print(raio)
+
+
+
+
+
+
